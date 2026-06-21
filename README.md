@@ -62,4 +62,5 @@ README.md - Project documentation
 - Incorporate SQL analysis.
 - Add more advanced visualizations.
 - Deploy an interactive dashboard online.
+
 **Thanks for your time 😊**
