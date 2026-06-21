@@ -50,3 +50,16 @@ notebooks/ - Jupyter notebooks
 images/ - Dashboard screenshots
 
 README.md - Project documentation
+
+### Recommendations
+
+- Increase investment in high-performing product categories.
+- Focus marketing efforts on top-performing regions.
+- Prepare inventory for peak seasonal demand.
+
+### Future Improvements
+
+- Incorporate SQL analysis.
+- Add more advanced visualizations.
+- Deploy an interactive dashboard online.
+**Thanks for your time 😊**
