@@ -37,9 +37,11 @@ Businesses need to understand their sales performance in order to identify growt
 - Some regions consistently outperformed others.
 - Sales showed strong seasonal patterns.
 
-### Dashboard Preview
+### Preview
 
-"Dashboard"
+- [Sales Dataset](cleaned-sales-dataset.csv)
+
+- [Sales Analysis Dashboard](sales-analysis-dashboard.png)
 
 ### Repository Structure
 
