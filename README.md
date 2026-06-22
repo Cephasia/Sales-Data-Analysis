@@ -57,10 +57,4 @@ README.md - Project documentation
 - Focus marketing efforts on top-performing regions.
 - Prepare inventory for peak seasonal demand.
 
-### Future Improvements
-
-- Incorporate SQL analysis.
-- Add more advanced visualizations.
-- Deploy an interactive dashboard online.
-
 **Thanks for your time 😊**
