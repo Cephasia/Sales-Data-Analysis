@@ -41,7 +41,7 @@ Businesses need to understand their sales performance in order to identify growt
 
 - [Sales Dataset](cleaned-sales-dataset.csv)
 
-- [Sales Analysis Dashboard](sales-analysis-dashboard.png)
+- [Sales Analysis Dashboard](image/sales-analysis-dashboard.png)
 
 ### Repository Structure
 
@@ -53,10 +53,10 @@ images/ - Dashboard screenshots
 
 README.md - Project documentation
 
-### Recommendations
+## Recommendations
 
-- Increase investment in high-performing product categories.
-- Focus marketing efforts on top-performing regions.
-- Prepare inventory for peak seasonal demand.
+- Focus marketing efforts on high-performing regions.
+- Increase inventory for top-selling products.
+- Investigate underperforming categories to improve profitability.
 
 **Thanks for your time 😊**
