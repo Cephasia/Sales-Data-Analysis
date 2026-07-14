@@ -39,7 +39,8 @@ Businesses need to understand their sales performance in order to identify growt
 
 ### Preview
 
-- [Chart Image]()
+- [Cleaned Dataset](ceaned-sales-data.csv)
+
 - ![Sales Analysis Dashboard](sales-dashboard-image.png)
 
 ### Repository Structure
