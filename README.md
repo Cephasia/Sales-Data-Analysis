@@ -1,12 +1,12 @@
 # Sales Data Analysis
 
 ### Project Overview
-This project analyzes retail sales data to uncover business insights that can support decision-making. The analysis focuses on sales trends, regional performance, product performance, and profitability.
+This project analyzes retail sales data to uncover insights for solving business problems that supports better decision-making. The analysis focuses on sales trends, regional performance, product performance, and profitability.
 
 ---
 
 ### Business Problem
-Businesses need to understand their sales performance in order to identify growth opportunities and improve profitability.
+Businesses need to understand their daily, monthly and yearly sales performance in order to identify growth opportunities and improve profitability.
 
 ---
 
@@ -21,11 +21,12 @@ Businesses need to understand their sales performance in order to identify growt
 ### Tools Used
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Tableau
-- GitHub
+
+  Pandas - Data Cleaning & EDA
+  
+  Matplotlib - Exploratory Data Analysis
+
+- Tableau - Dashboard Development
 ---
 
 ### Workflow
@@ -39,7 +40,7 @@ Businesses need to understand their sales performance in order to identify growt
 
 ### Key Insights
 
-- Technology products generated the highest revenue.
+- Technology products generated the highest revenue - `MacBook Pro Laptop`.
 - Some regions consistently outperformed others.
 - Sales showed strong seasonal patterns.
 ---
@@ -68,6 +69,16 @@ README.md - Project documentation
 - Investigate underperforming categories to improve profitability.
 ---
 
-**Thanks for your time 😊**
+# 👨‍💻 Author
 
-     Opeyemi (Ismail) Peter
+**Opeyemi (Ismail) Peter**
+
+Data Analyst | Business Intelligence
+
+GitHub:
+https://github.com/Cephasia
+
+LinkedIn:
+https://ng.linkedin.com/in/opeyemi-peter-394b333a1
+
+---
