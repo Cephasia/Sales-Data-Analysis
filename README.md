@@ -71,7 +71,7 @@ README.md - Project documentation
 
 # 👨‍💻 Author
 
-**Opeyemi (Ismail) Peter**
+**Opeyemi Peter Ismail**
 
 Data Analyst | Business Intelligence
 
