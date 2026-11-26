@@ -79,6 +79,6 @@ GitHub:
 https://github.com/Cephasia
 
 LinkedIn:
-https://ng.linkedin.com/in/opeyemi-peter-394b333a1
+https://www.linkedin.com/in/cephasia
 
 ---
